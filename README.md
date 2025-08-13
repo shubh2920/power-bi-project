@@ -1,1 +1,1 @@
-# power-bi-project
+Power BI Sales Dashboard
